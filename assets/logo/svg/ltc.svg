@@ -3,9 +3,9 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="32px" height="32px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#000D2B;}
+	.st0{fill:#073DAA;}
 	.st1{fill:url(#SVGID_1_);}
-	.st2{fill:#FFFFFF;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
 </style>
 <path class="st0" d="M20,32h-8C5.4,32,0,26.6,0,20v-8C0,5.4,5.4,0,12,0h8c6.6,0,12,5.4,12,12v8C32,26.6,26.6,32,20,32z"/>
 <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="7.2681" y1="0.8759" x2="24.7319" y2="31.1241">
@@ -13,6 +13,6 @@
 	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
 </linearGradient>
 <path class="st1" d="M20,32h-8C5.4,32,0,26.6,0,20v-8C0,5.4,5.4,0,12,0h8c6.6,0,12,5.4,12,12v8C32,26.6,26.6,32,20,32z"/>
-<path class="st2" d="M15.4,5l-5.1,3l5.1,3l5.2-3L15.4,5z M16.2,21v6l6.9-4v-6C23.1,17,16.2,21,16.2,21z M21.4,9.9v6l-5.2,3v-6
-	L21.4,9.9z M8.9,15.9l5.2,3v-6l-5.2-3V15.9z M8.9,24l5.2,3v-6l-5.2-3V24L8.9,24z"/>
+<path class="st2" d="M16.6,14.1l2.9-1.2l-0.6,2.8l-3,1.2l-1.4,5.7h10.8l-1,4.4H7.4l1.9-7.4l-2.4,1l0.6-2.7l2.6-1.1l0-0.1L13.3,5h5.6
+	L16.6,14.1z"/>
 </svg>
