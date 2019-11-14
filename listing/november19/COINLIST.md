@@ -1,4 +1,4 @@
-# Basic Attention Token (BAT)
+# QPay (QPY)
 ```bash
 1. Ticker: BAT
 2. Decimal: 18
@@ -49,79 +49,14 @@
 8. Contract Address: 0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9
 
 ```
-
-# Holo (HOT)
+=======
+# coin name <xyz coin>
 ```bash
-1. Ticker: HOT
+1. Ticker: ABC
 2. Decimal: 18
-3. Type: ERC20
-4. Explorer: https://etherscan.io/token/0x6c6ee5e31d828de241282b9606c8e98ea48526e2
-5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/hot.png
+3. Type: ERC20/BC
+4. Explorer: https://www.xyz.com/xyzcoin
+5. logo link: xyz coin's github logo file link
 6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 177.619B
-8. Contract Address: 0x6c6ee5e31d828de241282b9606c8e98ea48526e2
-
-```
-
-# UNUS SED LEO (LEO)
-```bash
-1. Ticker: LEO
-2. Decimal: 18
-3. Type: ERC20
-4. Explorer: https://etherscan.io/token/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3
-5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/leo.png
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 660M
-8. Contract Address: 0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3
-
-```
-
-# Chainlink (LINK)
-```bash
-1. Ticker: LINK
-2. Decimal: 18
-3. Type: ERC20
-4. Explorer: https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca
-5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/link.png
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 1B
-8. Contract Address: 0x514910771af9ca656af840dff83e8264ecf986ca
-
-```
-# Matic Network (MATIC)
-```bash
-1. Ticker: MATIC
-2. Decimal: 18
-3. Type: ERC20
-4. Explorer: https://etherscan.io/token/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0
-5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/matic.png
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 10B
-8. Contract Address: 0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0
-
-```
-
-# OmiseGO (OMG)
-```bash
-1. Ticker: OMG
-2. Decimal: 18
-3. Type: ERC20
-4. Explorer: https://etherscan.io/token/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07
-5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/omg.png
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 140.245M
-8. Contract Address: 0xd26114cd6EE289AccF82350c8d8487fedB8A0C07
-
-```
-# 0x (ZRX)
-```bash
-1. Ticker: ZRX
-2. Decimal: 18
-3. Type: ERC20
-4. Explorer: https://etherscan.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498
-5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/zrx.png
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 1B
-8. Contract Address: 0xd26114cd6EE289AccF82350c8d8487fedB8A0C07
-
-```
+7. Total Supply: 7b/m/k etc
+8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
