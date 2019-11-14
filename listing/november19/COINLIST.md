@@ -1,326 +1,127 @@
-<<<<<<< HEAD
-# QPay (QPY)
+# Basic Attention Token (BAT)
 ```bash
-1. Ticker: QPY
+1. Ticker: BAT
 2. Decimal: 18
 3. Type: ERC20
-4. Explorer: https://etherscan.io/token/0x6911270d4bc1915744aedd785d41d44f47245bd0
-5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/qpy.png
+4. Explorer: https://etherscan.io/token/0x0d8775f648430679a709e98d2b0cb6250d2887ef
+5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/bat.png
+6. Projected Listing Date: <48 hours after this file>
+7. Total Supply: 1.5B
+8. Contract Address: 0x0d8775f648430679a709e98d2b0cb6250d2887ef
+
+```
+
+# Chiliz (CHZ)
+```bash
+1. Ticker: CHZ
+2. Decimal: 18
+3. Type: ERC20
+4. Explorer: https://etherscan.io/token/0x3506424f91fd33084466f402d5d97f05f8e3b4af
+5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/chz.png
+6. Projected Listing Date: <48 hours after this file>
+7. Total Supply: 1.888B
+8. Contract Address: 0x3506424f91fd33084466f402d5d97f05f8e3b4af
+
+```
+
+# Fetch.ai (FET)
+```bash
+1. Ticker:
+2. Decimal: 18
+3. Type: ERC20
+4. Explorer: https://etherscan.io/token/0x1d287cc25dad7ccaf76a26bc660c5f7c8e2a05bd
+5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/fet.png
+6. Projected Listing Date: <48 hours after this file>
+7. Total Supply: 1.152B
+8. Contract Address: 0x1d287cc25dad7ccaf76a26bc660c5f7c8e2a05bd
+
+```
+
+# FTX Token (FTT)
+```bash
+1. Ticker: FTT
+2. Decimal: 18
+3. Type: ERC20
+4. Explorer: https://etherscan.io/token/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9
+5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/ftt.png
+6. Projected Listing Date: <48 hours after this file>
+7. Total Supply: 348.5M
+8. Contract Address: 0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9
+
+```
+
+# Holo (HOT)
+```bash
+1. Ticker: HOT
+2. Decimal: 18
+3. Type: ERC20
+4. Explorer: https://etherscan.io/token/0x6c6ee5e31d828de241282b9606c8e98ea48526e2
+5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/hot.png
+6. Projected Listing Date: <48 hours after this file>
+7. Total Supply: 177.619B
+8. Contract Address: 0x6c6ee5e31d828de241282b9606c8e98ea48526e2
+
+```
+
+# UNUS SED LEO (LEO)
+```bash
+1. Ticker: LEO
+2. Decimal: 18
+3. Type: ERC20
+4. Explorer: https://etherscan.io/token/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3
+5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/leo.png
+6. Projected Listing Date: <48 hours after this file>
+7. Total Supply: 660M
+8. Contract Address: 0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3
+
+```
+
+# Chainlink (LINK)
+```bash
+1. Ticker: LINK
+2. Decimal: 18
+3. Type: ERC20
+4. Explorer: https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca
+5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/link.png
 6. Projected Listing Date: <48 hours after this file>
 7. Total Supply: 1B
-8. Contract Address: 0x6911270d4bc1915744aedd785d41d44f47245bd0
+8. Contract Address: 0x514910771af9ca656af840dff83e8264ecf986ca
 
 ```
-# nDEX (NDX)
+# Matic Network (MATIC)
 ```bash
-1. Ticker: NDX
+1. Ticker: MATIC
 2. Decimal: 18
 3. Type: ERC20
-4. Explorer: https://etherscan.io/token/0x1966d718a565566e8e202792658d7b5ff4ece469
-5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/ndx.png
+4. Explorer: https://etherscan.io/token/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0
+5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/matic.png
 6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 15B
-8. Contract Address: 0x9d787053f9839966A664b0e14e9C26a3684F6E44
+7. Total Supply: 10B
+8. Contract Address: 0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0
 
 ```
 
-# nDEX Network Token (NDT)
+# OmiseGO (OMG)
 ```bash
-1. Ticker: NDT
+1. Ticker: OMG
 2. Decimal: 18
 3. Type: ERC20
-4. Explorer: https://etherscan.io/token/0x479eccecde65e3350d4b2305e42026f6dbae4a18
-5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/ndt.png
+4. Explorer: https://etherscan.io/token/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07
+5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/omg.png
 6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 200K
-8. Contract address/algorithm: 0x9d787053f9839966A664b0e14e9C26a3684F6E44
+7. Total Supply: 140.245M
+8. Contract Address: 0xd26114cd6EE289AccF82350c8d8487fedB8A0C07
 
 ```
-
-# Nexbit Coin (NBC)
+# 0x (ZRX)
 ```bash
-1. Ticker: NBC
-2. Decimal:
-3. Type: Blockchain
-4. Explorer:
-5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/nbc.png
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 365M
-8. Algorithm: Scrypt
-
-```
-=======
-# coin name <xyz coin>
-```bash
-1. Ticker: ABC
+1. Ticker: ZRX
 2. Decimal: 18
-3. Type: ERC20/BC
-4. Explorer: https://www.xyz.com/xyzcoin
-5. logo link: xyz coin's github logo file link
+3. Type: ERC20
+4. Explorer: https://etherscan.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498
+5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/zrx.png
 6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 7b/m/k etc
-8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
+7. Total Supply: 1B
+8. Contract Address: 0xd26114cd6EE289AccF82350c8d8487fedB8A0C07
 
 ```
-# coin name <xyz coin>
-```bash
-1. Ticker: ABC
-2. Decimal: 18
-3. Type: ERC20/BC
-4. Explorer: https://www.xyz.com/xyzcoin
-5. logo link: xyz coin's github logo file link
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 7b/m/k etc
-8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
-
-```
-
-# coin name <xyz coin>
-```bash
-1. Ticker: ABC
-2. Decimal: 18
-3. Type: ERC20/BC
-4. Explorer: https://www.xyz.com/xyzcoin
-5. logo link: xyz coin's github logo file link
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 7b/m/k etc
-8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
-
-```
-
-# coin name <xyz coin>
-```bash
-1. Ticker: ABC
-2. Decimal: 18
-3. Type: ERC20/BC
-4. Explorer: https://www.xyz.com/xyzcoin
-5. logo link: xyz coin's github logo file link
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 7b/m/k etc
-8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
-
-```
-
-# coin name <xyz coin>
-```bash
-1. Ticker: ABC
-2. Decimal: 18
-3. Type: ERC20/BC
-4. Explorer: https://www.xyz.com/xyzcoin
-5. logo link: xyz coin's github logo file link
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 7b/m/k etc
-8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
-
-```
-
-# coin name <xyz coin>
-```bash
-1. Ticker: ABC
-2. Decimal: 18
-3. Type: ERC20/BC
-4. Explorer: https://www.xyz.com/xyzcoin
-5. logo link: xyz coin's github logo file link
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 7b/m/k etc
-8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
-
-```
-
-# coin name <xyz coin>
-```bash
-1. Ticker: ABC
-2. Decimal: 18
-3. Type: ERC20/BC
-4. Explorer: https://www.xyz.com/xyzcoin
-5. logo link: xyz coin's github logo file link
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 7b/m/k etc
-8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
-
-```
-
-# coin name <xyz coin>
-```bash
-1. Ticker: ABC
-2. Decimal: 18
-3. Type: ERC20/BC
-4. Explorer: https://www.xyz.com/xyzcoin
-5. logo link: xyz coin's github logo file link
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 7b/m/k etc
-8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
-
-```
-
-# coin name <xyz coin>
-```bash
-1. Ticker: ABC
-2. Decimal: 18
-3. Type: ERC20/BC
-4. Explorer: https://www.xyz.com/xyzcoin
-5. logo link: xyz coin's github logo file link
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 7b/m/k etc
-8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
-
-```
-
-# coin name <xyz coin>
-```bash
-1. Ticker: ABC
-2. Decimal: 18
-3. Type: ERC20/BC
-4. Explorer: https://www.xyz.com/xyzcoin
-5. logo link: xyz coin's github logo file link
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 7b/m/k etc
-8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
-
-```
-
-# coin name <xyz coin>
-```bash
-1. Ticker: ABC
-2. Decimal: 18
-3. Type: ERC20/BC
-4. Explorer: https://www.xyz.com/xyzcoin
-5. logo link: xyz coin's github logo file link
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 7b/m/k etc
-8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
-
-```
-
-# coin name <xyz coin>
-```bash
-1. Ticker: ABC
-2. Decimal: 18
-3. Type: ERC20/BC
-4. Explorer: https://www.xyz.com/xyzcoin
-5. logo link: xyz coin's github logo file link
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 7b/m/k etc
-8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
-
-```
-
-# coin name <xyz coin>
-```bash
-1. Ticker: ABC
-2. Decimal: 18
-3. Type: ERC20/BC
-4. Explorer: https://www.xyz.com/xyzcoin
-5. logo link: xyz coin's github logo file link
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 7b/m/k etc
-8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
-
-```
-
-# coin name <xyz coin>
-```bash
-1. Ticker: ABC
-2. Decimal: 18
-3. Type: ERC20/BC
-4. Explorer: https://www.xyz.com/xyzcoin
-5. logo link: xyz coin's github logo file link
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 7b/m/k etc
-8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
-
-```
-
-# coin name <xyz coin>
-```bash
-1. Ticker: ABC
-2. Decimal: 18
-3. Type: ERC20/BC
-4. Explorer: https://www.xyz.com/xyzcoin
-5. logo link: xyz coin's github logo file link
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 7b/m/k etc
-8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
-
-```
-
-# coin name <xyz coin>
-```bash
-1. Ticker: ABC
-2. Decimal: 18
-3. Type: ERC20/BC
-4. Explorer: https://www.xyz.com/xyzcoin
-5. logo link: xyz coin's github logo file link
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 7b/m/k etc
-8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
-
-```
-
-# coin name <xyz coin>
-```bash
-1. Ticker: ABC
-2. Decimal: 18
-3. Type: ERC20/BC
-4. Explorer: https://www.xyz.com/xyzcoin
-5. logo link: xyz coin's github logo file link
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 7b/m/k etc
-8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
-
-```
-
-# coin name <xyz coin>
-```bash
-1. Ticker: ABC
-2. Decimal: 18
-3. Type: ERC20/BC
-4. Explorer: https://www.xyz.com/xyzcoin
-5. logo link: xyz coin's github logo file link
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 7b/m/k etc
-8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
-
-```
-
-# coin name <xyz coin>
-```bash
-1. Ticker: ABC
-2. Decimal: 18
-3. Type: ERC20/BC
-4. Explorer: https://www.xyz.com/xyzcoin
-5. logo link: xyz coin's github logo file link
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 7b/m/k etc
-8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
-
-```
-
-# coin name <xyz coin>
-```bash
-1. Ticker: ABC
-2. Decimal: 18
-3. Type: ERC20/BC
-4. Explorer: https://www.xyz.com/xyzcoin
-5. logo link: xyz coin's github logo file link
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 7b/m/k etc
-8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
-
-```
-
-# coin name <xyz coin>
-```bash
-1. Ticker: ABC
-2. Decimal: 18
-3. Type: ERC20/BC
-4. Explorer: https://www.xyz.com/xyzcoin
-5. logo link: xyz coin's github logo file link
-6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 7b/m/k etc
-8. Contract address/algorithm: <if erc20 then contrct address or algorithm>
-
-```
-
-
->>>>>>> master
