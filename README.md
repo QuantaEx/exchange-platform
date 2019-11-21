@@ -9,14 +9,14 @@ Last 60 days progress of QuantaEx
 4. Waallet page Total value integration
 5. Integration with analytics (google from deep inside)
 6. Deploy police bot inside platform to prevent misc withdrawal
-7. Integrate XRP (its a taff job)
+7. Integrate XRP  
 8. Server capacity increase 3 time more
-9. Usercapacity (DB) increase to 1 million
+9. Usercapacity (DB) increase 5x
 10. Twitter community raise from 3300-29000
-11. Alexa ranking 900000 to increase 540000
+11. Alexa ranking increase 45%
 12. Twitter reach increase 240% +
 13. Add top 10 asset
-14. Creates 8 specilized bot
+14. Creates 8 trading modules
 15. Ready to integrate USD (fiat)
 16. Integrate Coin listing inside
 17. Integrate IEO listing inside (few task left)
