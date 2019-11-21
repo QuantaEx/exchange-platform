@@ -1,5 +1,5 @@
 # QuantaEx | High Scale Digital Asset Exchange
-https://www.quanataex.com
+https://www.quantaex.com
 
 Last 60 days progress of QuantaEx
 *********************************
