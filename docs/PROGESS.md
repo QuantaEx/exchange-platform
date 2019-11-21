@@ -1,6 +1,3 @@
-# QuantaEx | High Scale Digital Asset Exchange
-https://www.quanataex.com
-
 Last 60 days progress of QuantaEx
 *********************************
 1. Core platform design change
