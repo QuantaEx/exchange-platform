@@ -6,9 +6,9 @@ Last 60 days progress of QuantaEx
 1. Core platform design change
 2. Add/Create DSR app module
 3. Total outlook design change
-4. Waallet page Total value integration
+4. Wallet page Total value integration
 5. Integration with analytics (google from deep inside)
-6. Deploy police bot inside platform to prevent misc withdrawal
+6. Deploy policing bot inside platform to prevent misc withdrawal
 7. Integrate XRP  
 8. Server capacity increase 3 time more
 9. Usercapacity (DB) increase 5x
