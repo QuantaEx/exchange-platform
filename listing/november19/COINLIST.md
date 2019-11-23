@@ -193,7 +193,7 @@
 
 ```
 
-# TICOEX Token (TICO)
+# Topinvestmentcoin (TICO)
 ```bash
 1. Ticker: TICO
 2. Decimal: 8
