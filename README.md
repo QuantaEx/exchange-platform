@@ -1,8 +1,8 @@
   <a href="https://www.quantaex.com">
     <img src="https://www.quantaex.com/static/media/logo.52f6a542.png" width="420px" alt="QuantaEx logo" />
-  </a>
-# QuantaEx | High Scale Digital Asset Exchange
-https://www.quantaex.com
+  </a><br />
+  <h3> QuantaEx | High Scale Digital Asset Exchange</h3>
+  https://www.quantaex.com
 
 
 Last 60 days progress of QuantaEx
