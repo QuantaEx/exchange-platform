@@ -1,10 +1,9 @@
-<p align="center">
   <a href="https://www.quantaex.com">
-    <img src="https://www.quantaex.com/static/media/logo.52f6a542.png" width="320px" alt="QuantaEx logo" />
+    <img src="https://www.quantaex.com/static/media/logo.52f6a542.png" width="420px" alt="QuantaEx logo" />
   </a>
 # QuantaEx | High Scale Digital Asset Exchange
 https://www.quantaex.com
-</p>
+
 
 Last 60 days progress of QuantaEx
 *********************************
