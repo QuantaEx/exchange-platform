@@ -193,16 +193,16 @@
 
 ```
 
-# Topinvestmentcoin (TICO)
+# TICOEX Token (TICO)
 ```bash
 1. Ticker: TICO
 2. Decimal: 8
 3. Type: ERC20
-4. Explorer: https://etherscan.io/token/0x7f4b2a690605a7cbb66f7aa6885ebd906a5e2e9e
+4. Explorer: https://etherscan.io/token/0x36b60a425b82483004487abc7adcb0002918fc56
 5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/tico.png
 6. Projected Listing Date: <48 hours after this file>
-7. Total Supply: 170M
-8. Contract Address: 0x7f4b2a690605a7cbb66f7aa6885ebd906a5e2e9e
+7. Total Supply: 101.101M
+8. Contract Address: 0x36b60a425b82483004487abc7adcb0002918fc56
 9. GAS Limit: 60000
 10.GAS Price: 15000000000 wei
 
