@@ -207,3 +207,18 @@
 10.GAS Price: 15000000000 wei
 
 ```
+
+# LEXIT (LXT)
+```bash
+1. Ticker: LXT
+2. Decimal: 18
+3. Type: ERC20
+4. Explorer: https://etherscan.io/token/0xaa031595d2d9b82847a5df3390c6395839b273d0
+5. Logo Link: https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/logo/png/lxt.png
+6. Projected Listing Date: <48 hours after this file>
+7. Total Supply: 160M
+8. Contract Address: 0xaa031595d2d9b82847a5df3390c6395839b273d0
+9. GAS Limit: 60000
+10.GAS Price: 15000000000 wei
+
+```
