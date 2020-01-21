@@ -24766,7 +24766,7 @@ align-items: flex-start;
   border-radius: 12px
 }
 .logout-btn {
-  background: linear-gradient(to right,#010813,#051628);
+  background: var(--button-hover)!important;
   border: none;
   text-decoration: none;
   color: white;
@@ -24777,7 +24777,7 @@ align-items: flex-start;
   font-size: 13px;
 }
 .regular-btn {
-  background: linear-gradient(to right,#010813,#051628);
+  background: var(--button-hover)!important;
   border: none;
   text-decoration: none;
   color: white;
@@ -24815,9 +24815,9 @@ align-items: flex-start;
 
 
 .seperate-unit {
-  background: rgb(32, 48, 65);
+  background: var(--base-bright);
   -webkit-box-shadow: 2px 6px 7px rgba(59, 16, 16, 0.25);
-  box-shadow: 2px 2px 1px 0px rgba(59,59,59,0.52);
+  box-shadow: 2px 6px 7px rgba(59, 16, 16, 0.25);
   border-radius: 6px;
   position: relative;
   padding: 12px;
