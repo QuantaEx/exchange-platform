@@ -23319,9 +23319,7 @@ header {
 .footer-content {
   display: block;
   position: absolute;
-  background-color: #081421;
-  border-color: #0B1B2B;
-  border-top-style: solid;
+  background-color: var(--navbar-background-color);
   padding: 30px 30px 40px 40px;
   margin-left: 0px;
   margin-right: 0px;
@@ -23512,7 +23510,6 @@ header {
 }
 .home-info-box__text-left {
   display: block;
-  background-color: rgb(32, 48, 65);
   box-shadow: var(--home-info-box-box-shadow);
   padding: 15px 15px 15px 15px;
   margin: 5px 5px 5px 5px;
