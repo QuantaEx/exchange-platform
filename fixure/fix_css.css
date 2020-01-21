@@ -23926,7 +23926,7 @@ header {
   --navbar-language-selector-color: var(--dropdown-text);
   --navbar-language-selector-current-color: var(--text);
   --navbar-language-selector-current-background: var(--header);
-  --navbar-swither-background: #201653;
+  --navbar-swither-background: #15202b;
 
   /* Resend email confirmation screen */
   --email-confirmation-screen-background: var(--main-bg);
@@ -24015,7 +24015,7 @@ header {
   --accent: #3c78e0;
   --green: #05aa81;
   --red: #d15256;
-  --selected-item: #F0F1FF;
+  --selected-item: #e4e8ec;
 
   --background: var(--back-bg);
   --background-dark: var(--main-bg);
