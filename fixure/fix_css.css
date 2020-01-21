@@ -17056,7 +17056,7 @@ header {
 .ng-header__logo {
   display: flex;
   justify-content: flex-start;
-  height: calc(var(--gap) * 7.67);
+  /*height: calc(var(--gap) * 7.67);*/
   /*width: calc(var(--gap) * 25.67);*/
 }
 .ng-header__logo .ng-logo svg {
