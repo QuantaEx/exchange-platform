@@ -6540,7 +6540,7 @@ input ~ .nr-checkbox:hover__checkitem {
   --background-dropdown-hover: #21374b;
   --background-dropdown-hover-text: #95a8c9;
   --button-primary: linear-gradient(#3c96cd, #2c8ac3);
-  --button-hover: linear-gradient(#59b7f2, #2c97d7);
+  --button-hover: linear-gradient(90deg,#1890ff,#096dd9);
   --button-active: linear-gradient(#2a76a4, #145780);
   --button-disabled: linear-gradient(#264c63, #0b4365);
   --button-dark-gray: #1a232f;
@@ -24768,6 +24768,8 @@ align-items: flex-start;
 .logout-btn {
   background: var(--button-hover)!important;
   border: none;
+  box-shadow: 0 10px 20px 0 rgba(21, 138, 248, 0.25);
+  border-radius: 5px;
   text-decoration: none;
   color: white;
   width: 100px;
@@ -24779,6 +24781,8 @@ align-items: flex-start;
 .regular-btn {
   background: var(--button-hover)!important;
   border: none;
+  box-shadow: 0 10px 20px 0 rgba(21, 138, 248, 0.25);
+  border-radius: 5px;
   text-decoration: none;
   color: white;
 }
