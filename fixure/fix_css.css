@@ -24555,7 +24555,7 @@ input:-webkit-autofill {
 .bg-orange { background: #fa0 }
 .bg-red { background: 'red' }
 .bg-footer-header { background: #0f131a }
-.bg-42 { background: #424242 }
+.bg-42 { background: var(--base-bright) }
 .bg-232 { background: #191d23 }
 .bg-chart { background: #192F32 }
 
