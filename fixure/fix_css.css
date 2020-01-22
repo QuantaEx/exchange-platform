@@ -6540,7 +6540,7 @@ input ~ .nr-checkbox:hover__checkitem {
   --background-dropdown-hover: #21374b;
   --background-dropdown-hover-text: #95a8c9;
   --button-primary: linear-gradient(#3c96cd, #2c8ac3);
-  --button-hover: linear-gradient(90deg,#1890ff,#096dd9);
+  --button-hover: linear-gradient(90deg, #1890ff, #096dd9);
   --button-active: linear-gradient(#2a76a4, #145780);
   --button-disabled: linear-gradient(#264c63, #0b4365);
   --button-dark-gray: #1a232f;
@@ -23605,9 +23605,9 @@ header {
   --button-normal: #2784db;
   --white: #fff;
   --accent: #066fc7;
-  --green: rgb(59, 199, 79);
-  --red: #d15256;
-  --selected-item: #2d2951;
+  --green: #41bd8c;
+  --red: #f36d59;
+  --selected-item: #16222f;
 
   --footer-bg: rgb(8, 20, 33);
   --footer-top-border-color: rgba(255, 255, 255, .5);
@@ -23653,7 +23653,7 @@ header {
   --background-dropdown-hover: var(--header-text);
   --background-dropdown-hover-text: var(--color-white);
   --button-primary: var(--button-normal);
-  --button-hover: linear-gradient(0deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), var(--button-normal);
+  --button-hover: linear-gradient(90deg, #1890ff, #096dd9);
   --button-active: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), var(--button-normal);
   --button-disabled: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), var(--button-normal);
   --button-dark-gray: linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), var(--color-white);
@@ -23673,7 +23673,7 @@ header {
   --withdraw-button-bg: var(--header);
   --table-background: var(--main-bg);
   --table-border-bottom: var(--header);
-  --table-header-border-bottom: #2e2b71;
+  --table-header-border-bottom: #33475d;
   --table-header-color: var(--text);
   --table-dark-header-color: var(--main-bg);
   --title-component-color: var(--header-text);
@@ -24776,7 +24776,9 @@ align-items: flex-start;
   margin-right: 12px;
   margin-bottom: 12px;
   float: right;
-  font-size: 20px;
+  font-size: 18px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 .regular-btn {
   background: var(--button-hover)!important;
@@ -24785,7 +24787,9 @@ align-items: flex-start;
   border-radius: 5px;
   text-decoration: none;
   color: white;
-  font-size: 20px;
+  font-size: 18px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 .regular-btn, .logout-btn:hover {
   border: #010813;
@@ -24912,7 +24916,7 @@ align-items: flex-start;
 }
 
 .token-round-active {
-  background: #E91E63;
+  background: #2a82e8;
   border-radius: 18px;
   padding: 4px 10px;
   color: #fff;
@@ -24922,7 +24926,7 @@ align-items: flex-start;
 }
 
 .token-round-inactive {
-  background: #3B3B3B;
+  background: #687e96;
   border-radius: 18px;
   padding: 4px 10px;
   color: #fff;
