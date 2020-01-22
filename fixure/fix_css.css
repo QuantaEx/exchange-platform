@@ -22863,7 +22863,7 @@ header {
   display: block;
 }
 .ng-social-my-profile-container__block-content-button button {
-  background: linear-gradient(90deg, #21F9F9 0%, #6048BC 100%);
+  background: var(--button-hover)!important;
   border: none;
   border-radius: 25px;
   color: var(--social-button-primary-color);
@@ -23660,7 +23660,7 @@ header {
   --outline-wallet-item-active: var(--header);
   --text-light-grey: var(--header);
   --text-table-grey: var(--placeholder-text);
-  --input-background: #1c1c1f;
+  --input-background: #15202b;
   --input-block-bg: var(--header);
   --input-block-border-color: var(--placeholder-text);
   --input-block-color: var(--header);
@@ -23943,8 +23943,8 @@ header {
   --sign-in-input-border-hover-color: rgba(255, 255, 255, 0.7);
 
   /* Social */
-  --social-background-input-color: #312C51;
-  --social-background-primary-color: #1f1942;
+  --social-background-input-color: #15202b;
+  --social-background-primary-color: #203041;
   --social-button-primary-color: var(--color-white);
   --social-divider-color: rgba(255, 255, 255, 0.5);
   --social-divider-secondary-color: rgba(255, 255, 255, 0.1);
