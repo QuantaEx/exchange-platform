@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin:500,600,700,900');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700');
 @import url('https://fonts.googleapis.com/css?family=Exo:500,600,700,900');
 @import url('https://fonts.googleapis.com/css?family=Lato:500,600,700,900');
@@ -6513,7 +6514,7 @@ input ~ .nr-checkbox:hover__checkitem {
   --font-size: 12px !important;
   --font-size-smaller: calc(var(--font-size) * 0.9);
   --font-size-bigger: calc(var(--font-size) * 1.1);
-  --font-family: 'Exo','Lato', 'Helvetica','Montserrat','Roboto', sans-serif;
+  --font-family: 'Cabin', 'Exo', 'Helvetica','Montserrat','Roboto', sans-serif;
   --font-weight: normal;
   --line-height: 1.2;
 
@@ -13962,15 +13963,14 @@ header {
 }
 .ng-sign-up-screen .nr-sign-up-form__form-content {
   position: unset;
-  margin: 125px 23px 23px 23px;
+  margin: 5px 20px 20px 20px;
 }
 .ng-sign-up-screen .nr-sign-up-form__headline {
   position: relative;
-  top: 50px;
   color: var(--sign-in-label-color);
   font-size: 38px;
   font-weight: 700;
-  margin: 90px;
+  margin: 30px;
 }
 .ng-sign-up-screen .nr-sign-up-form__group {
   margin-bottom: calc(var(--gap) * 3.1);
@@ -17322,7 +17322,7 @@ header {
 .ng-markets .nr-markets .nr-table tbody tr td {
   color: var(--markets-text-primary-color);
   cursor: pointer;
-  opacity: 0.8;
+  opacity: 0.95;
   padding-left: 0;
   padding-right: 0;
 }
@@ -17401,11 +17401,13 @@ header {
 }
 .ng-markets .nr-markets .nr-table .__positive {
   color: var(--color-green) !important;
-  opacity: 0.8;
+  opacity: 1;
+  font-weight: 600;
 }
 .ng-markets .nr-markets .nr-table .__negative {
   color: var(--color-red) !important;
-  opacity: 0.8;
+  opacity: 1;
+  font-weight: 600;
 }
 .ng-markets .nr-table-header__content {
   background: var(--table-dark-header-color);
@@ -23605,8 +23607,8 @@ header {
   --button-normal: #2784db;
   --white: #fff;
   --accent: #066fc7;
-  --green: #41bd8c;
-  --red: #f36d59;
+  --green: #20ca9e;
+  --red: #ff3d36;
   --selected-item: #16222f;
 
   --footer-bg: rgb(8, 20, 33);
@@ -23623,7 +23625,7 @@ header {
   /* DARK.PCSS */
 
   /* typography */
-  --font-family: 'Exo', sans-serif;
+  --font-family: 'Cabin', 'Exo', sans-serif;
   --font-weight: normal;
   --font-size: 11px !important;
   --font-size-smaller: calc(var(--font-size) * 0.9);
@@ -24945,3 +24947,4 @@ align-items: flex-start;
 .mouse-hover:hover {
   cursor: pointer;
 }
+
