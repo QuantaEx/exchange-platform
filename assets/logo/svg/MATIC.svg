@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="32px" height="32px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+	 width="40px" height="40px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#2B6DEF;}
 	.st1{fill:url(#SVGID_1_);}
@@ -9,19 +9,19 @@
 	.st3{fill:#DCF1FF;}
 	.st4{fill:#D9E8FF;}
 </style>
-<path class="st0" d="M20,32h-8C5.4,32,0,26.6,0,20v-8C0,5.4,5.4,0,12,0h8c6.6,0,12,5.4,12,12v8C32,26.6,26.6,32,20,32z"/>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="7.2681" y1="0.8759" x2="24.7319" y2="31.1241">
+<path class="st0" d="M25,40H15C6.8,40,0,33.3,0,25V15C0,6.8,6.8,0,15,0h10c8.3,0,15,6.8,15,15v10C40,33.3,33.3,40,25,40z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="9.0907" y1="40.8954" x2="30.9093" y2="3.1046" gradientTransform="matrix(1 0 0 -1 0 42)">
 	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
 	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
 </linearGradient>
-<path class="st1" d="M20,32h-8C5.4,32,0,26.6,0,20v-8C0,5.4,5.4,0,12,0h8c6.6,0,12,5.4,12,12v8C32,26.6,26.6,32,20,32z"/>
+<path class="st1" d="M25,40H15C6.8,40,0,33.3,0,25V15C0,6.8,6.8,0,15,0h10c8.3,0,15,6.8,15,15v10C40,33.3,33.3,40,25,40z"/>
 <g id="matic">
-	<polygon class="st2" points="19.7,13.7 19.7,17.8 19.7,17.8 16,19.9 16,15.8 17.7,14.8 	"/>
-	<polygon class="st3" points="23.4,24.5 23.3,24.6 19.7,22.5 19.7,9.5 23.3,11.6 23.3,24.5 	"/>
-	<polygon class="st2" points="27,9.5 27,22.5 23.4,24.5 23.3,24.5 23.3,11.6 24.4,11 	"/>
-	<polygon class="st4" points="27,9.5 24.4,11 23.3,11.6 19.7,9.5 23.3,7.4 	"/>
-	<polygon class="st3" points="16,15.8 16,19.9 12.3,17.8 8.7,15.8 8.7,24.5 5,22.5 5,9.5 13.8,14.5 	"/>
-	<polygon class="st4" points="19.7,13.7 17.7,14.8 16,15.8 13.8,14.5 5,9.5 8.7,7.4 	"/>
-	<polygon class="st2" points="12.3,17.8 12.3,22.5 8.7,24.5 8.7,15.8 	"/>
+	<polygon class="st2" points="24.6,17.1 24.6,22.3 24.6,22.3 20,24.9 20,19.8 22.1,18.5 	"/>
+	<polygon class="st3" points="29.3,30.6 29.1,30.8 24.6,28.1 24.6,11.9 29.1,14.5 29.1,30.6 	"/>
+	<polygon class="st2" points="33.8,11.9 33.8,28.1 29.3,30.6 29.1,30.6 29.1,14.5 30.5,13.8 	"/>
+	<polygon class="st4" points="33.8,11.9 30.5,13.8 29.1,14.5 24.6,11.9 29.1,9.3 	"/>
+	<polygon class="st3" points="20,19.8 20,24.9 15.4,22.3 10.9,19.8 10.9,30.6 6.3,28.1 6.3,11.9 17.3,18.1 	"/>
+	<polygon class="st4" points="24.6,17.1 22.1,18.5 20,19.8 17.3,18.1 6.3,11.9 10.9,9.3 	"/>
+	<polygon class="st2" points="15.4,22.3 15.4,28.1 10.9,30.6 10.9,19.8 	"/>
 </g>
 </svg>

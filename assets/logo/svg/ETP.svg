@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="32px" height="32px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+	 width="40px" height="40px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#3F3F3F;}
 	.st1{fill:url(#SVGID_1_);}
 	.st2{fill:#FFFFFF;}
 	.st3{fill:#FFFFFF;fill-opacity:0;}
 </style>
-<path class="st0" d="M20,32h-8C5.4,32,0,26.6,0,20v-8C0,5.4,5.4,0,12,0h8c6.6,0,12,5.4,12,12v8C32,26.6,26.6,32,20,32z"/>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="7.2681" y1="0.8759" x2="24.7319" y2="31.1241">
+<path class="st0" d="M25,40H15C6.8,40,0,33.3,0,25V15C0,6.8,6.8,0,15,0h10c8.3,0,15,6.8,15,15v10C40,33.3,33.3,40,25,40z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="9.0907" y1="267.1046" x2="30.9093" y2="304.8954" gradientTransform="matrix(1 0 0 1 0 -266)">
 	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
 	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
 </linearGradient>
-<path class="st1" d="M20,32h-8C5.4,32,0,26.6,0,20v-8C0,5.4,5.4,0,12,0h8c6.6,0,12,5.4,12,12v8C32,26.6,26.6,32,20,32z"/>
+<path class="st1" d="M25,40H15C6.8,40,0,33.3,0,25V15C0,6.8,6.8,0,15,0h10c8.3,0,15,6.8,15,15v10C40,33.3,33.3,40,25,40z"/>
 <g id="layer1">
 	<g id="g5474" transform="translate(-3.163 -281.382) scale(1.60742)">
-		<ellipse id="path5411" class="st2" cx="6.8" cy="189.1" rx="1.5" ry="1.5"/>
-		<circle id="circle5413" class="st2" cx="5.5" cy="186" r="1"/>
-		<circle id="circle5415" class="st3" cx="6.1" cy="182.7" r="0.9"/>
-		<circle id="circle5417" class="st2" cx="8" cy="179.9" r="0.8"/>
-		<circle id="circle5419" class="st2" cx="11.2" cy="178.6" r="0.6"/>
-		<circle id="circle5421" class="st2" cx="14.5" cy="179.1" r="0.5"/>
-		<circle id="circle5423" class="st2" cx="17.2" cy="181.2" r="0.4"/>
-		<circle id="circle5425" class="st2" cx="18.5" cy="184.4" r="0.9"/>
-		<circle id="circle5427" class="st2" cx="18.1" cy="187.7" r="0.8"/>
-		<circle id="circle5429" class="st2" cx="16" cy="190.4" r="0.6"/>
-		<circle id="circle5431" class="st2" cx="12.8" cy="191.6" r="0.4"/>
-		<circle id="circle5433" class="st2" cx="9.6" cy="191.1" r="0.3"/>
-		<ellipse id="circle5435" class="st2" cx="6.1" cy="182.7" rx="1.5" ry="1.5"/>
-		<path id="rect5437" class="st2" d="M9.4,183.9l1.2-0.7l0,4l-1.2,0.7L9.4,183.9L9.4,183.9z"/>
-		<path id="path5444" class="st2" d="M14.2,183.9l1.2-0.7l0,4l-1.2,0.7V183.9L14.2,183.9z"/>
-		<path id="path5446" class="st2" d="M11.8,183.9l1.2-0.7l0,4l-1.2,0.7L11.8,183.9L11.8,183.9z"/>
-		<path id="rect5448" class="st2" d="M8.2,183.2l1.2-0.7l1.2,0.7l-1.2,0.7L8.2,183.2L8.2,183.2z"/>
-		<path id="path5451" class="st2" d="M10.6,183.2l1.2-0.7l1.2,0.7l-1.2,0.7L10.6,183.2z"/>
-		<path id="path5453" class="st2" d="M13.1,183.2l1.2-0.7l1.2,0.7l-1.2,0.7L13.1,183.2L13.1,183.2z"/>
+		<ellipse id="path5411" class="st2" cx="8" cy="192.6" rx="1.9" ry="1.9"/>
+		<circle id="circle5413" class="st2" cx="6.4" cy="188.7" r="1.3"/>
+		<circle id="circle5415" class="st3" cx="7.1" cy="184.6" r="1.1"/>
+		<circle id="circle5417" class="st2" cx="9.5" cy="181.1" r="1"/>
+		<circle id="circle5419" class="st2" cx="13.5" cy="179.5" r="0.8"/>
+		<circle id="circle5421" class="st2" cx="17.6" cy="180.1" r="0.6"/>
+		<circle id="circle5423" class="st2" cx="21" cy="182.7" r="0.5"/>
+		<circle id="circle5425" class="st2" cx="22.6" cy="186.7" r="1.1"/>
+		<circle id="circle5427" class="st2" cx="22.1" cy="190.9" r="1"/>
+		<circle id="circle5429" class="st2" cx="19.5" cy="194.2" r="0.8"/>
+		<circle id="circle5431" class="st2" cx="15.5" cy="195.7" r="0.5"/>
+		<circle id="circle5433" class="st2" cx="11.5" cy="195.1" r="0.4"/>
+		<ellipse id="circle5435" class="st2" cx="7.1" cy="184.6" rx="1.9" ry="1.9"/>
+		<path id="rect5437" class="st2" d="M11.3,186.1l1.5-0.9v5l-1.5,0.9V186.1L11.3,186.1z"/>
+		<path id="path5444" class="st2" d="M17.4,186.1l1.5-0.9v5l-1.5,0.9V186.1L17.4,186.1z"/>
+		<path id="path5446" class="st2" d="M14.3,186.1l1.5-0.9v5l-1.5,0.9V186.1L14.3,186.1z"/>
+		<path id="rect5448" class="st2" d="M9.8,185.2l1.5-0.9l1.5,0.9l-1.5,0.9L9.8,185.2L9.8,185.2z"/>
+		<path id="path5451" class="st2" d="M12.8,185.2l1.5-0.9l1.5,0.9l-1.5,0.9L12.8,185.2z"/>
+		<path id="path5453" class="st2" d="M15.9,185.2l1.5-0.9l1.5,0.9l-1.5,0.9L15.9,185.2L15.9,185.2z"/>
 	</g>
 </g>
 </svg>
