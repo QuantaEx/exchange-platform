@@ -3,16 +3,9 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="40px" height="40px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
-	.st1{fill:#FFFFFF;}
+	.st0{fill:#A1A3AA;}
 </style>
-<path d="M25,40H15C6.8,40,0,33.3,0,25V15C0,6.8,6.8,0,15,0h10c8.3,0,15,6.8,15,15v10C40,33.3,33.3,40,25,40z"/>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="9.0907" y1="40.8954" x2="30.9093" y2="3.1046" gradientTransform="matrix(1 0 0 -1 0 42)">
-	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
-	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
-</linearGradient>
-<path class="st0" d="M25,40H15C6.8,40,0,33.3,0,25V15C0,6.8,6.8,0,15,0h10c8.3,0,15,6.8,15,15v10C40,33.3,33.3,40,25,40z"/>
-<polygon class="st1" points="34.4,26.1 20.3,34.3 5.6,25.9 5.6,21.8 20.3,30.1 27.4,26.1 22.6,23.4 20.9,24.4 17.5,22.5 19.3,21.5 
-	17,20.1 15.6,21 12.3,19 13.6,18.3 6.1,13.9 20.3,5.8 33.6,13.4 30,15.4 20.3,9.9 13.3,13.9 17.1,16.1 19.3,15 22.5,16.9 20.5,18.1 
-	22.8,19.4 24.5,18.5 27.8,20.4 26.1,21.4 "/>
+<polygon class="st0" points="40,28.4 20.4,39.8 0,28.1 0,22.4 20.4,34 30.3,28.4 23.6,24.7 21.3,26 16.5,23.4 19,22 15.8,20.1 
+	13.9,21.3 9.3,18.5 11.1,17.6 0.7,11.5 20.4,0.2 38.9,10.8 33.9,13.5 20.4,5.9 10.7,11.5 16,14.5 19,13 23.5,15.6 20.7,17.3 
+	23.9,19.1 26.3,17.8 30.8,20.5 28.5,21.9 "/>
 </svg>

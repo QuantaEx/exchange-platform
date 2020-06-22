@@ -3,38 +3,31 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="40px" height="40px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#3F3F3F;}
-	.st1{fill:url(#SVGID_1_);}
-	.st2{fill:#FFFFFF;}
-	.st3{fill:#FFFFFF;fill-opacity:0;}
+	.st0{fill:#A1A3AA;}
+	.st1{fill:#A1A3AA;fill-opacity:0;}
 </style>
-<path class="st0" d="M25,40H15C6.8,40,0,33.3,0,25V15C0,6.8,6.8,0,15,0h10c8.3,0,15,6.8,15,15v10C40,33.3,33.3,40,25,40z"/>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="9.0907" y1="267.1046" x2="30.9093" y2="304.8954" gradientTransform="matrix(1 0 0 1 0 -266)">
-	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
-	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
-</linearGradient>
-<path class="st1" d="M25,40H15C6.8,40,0,33.3,0,25V15C0,6.8,6.8,0,15,0h10c8.3,0,15,6.8,15,15v10C40,33.3,33.3,40,25,40z"/>
 <g id="layer1">
 	<g id="g5474" transform="translate(-3.163 -281.382) scale(1.60742)">
-		<ellipse id="path5411" class="st2" cx="8" cy="192.6" rx="1.9" ry="1.9"/>
-		<circle id="circle5413" class="st2" cx="6.4" cy="188.7" r="1.3"/>
-		<circle id="circle5415" class="st3" cx="7.1" cy="184.6" r="1.1"/>
-		<circle id="circle5417" class="st2" cx="9.5" cy="181.1" r="1"/>
-		<circle id="circle5419" class="st2" cx="13.5" cy="179.5" r="0.8"/>
-		<circle id="circle5421" class="st2" cx="17.6" cy="180.1" r="0.6"/>
-		<circle id="circle5423" class="st2" cx="21" cy="182.7" r="0.5"/>
-		<circle id="circle5425" class="st2" cx="22.6" cy="186.7" r="1.1"/>
-		<circle id="circle5427" class="st2" cx="22.1" cy="190.9" r="1"/>
-		<circle id="circle5429" class="st2" cx="19.5" cy="194.2" r="0.8"/>
-		<circle id="circle5431" class="st2" cx="15.5" cy="195.7" r="0.5"/>
-		<circle id="circle5433" class="st2" cx="11.5" cy="195.1" r="0.4"/>
-		<ellipse id="circle5435" class="st2" cx="7.1" cy="184.6" rx="1.9" ry="1.9"/>
-		<path id="rect5437" class="st2" d="M11.3,186.1l1.5-0.9v5l-1.5,0.9V186.1L11.3,186.1z"/>
-		<path id="path5444" class="st2" d="M17.4,186.1l1.5-0.9v5l-1.5,0.9V186.1L17.4,186.1z"/>
-		<path id="path5446" class="st2" d="M14.3,186.1l1.5-0.9v5l-1.5,0.9V186.1L14.3,186.1z"/>
-		<path id="rect5448" class="st2" d="M9.8,185.2l1.5-0.9l1.5,0.9l-1.5,0.9L9.8,185.2L9.8,185.2z"/>
-		<path id="path5451" class="st2" d="M12.8,185.2l1.5-0.9l1.5,0.9l-1.5,0.9L12.8,185.2z"/>
-		<path id="path5453" class="st2" d="M15.9,185.2l1.5-0.9l1.5,0.9l-1.5,0.9L15.9,185.2L15.9,185.2z"/>
+		
+			<ellipse id="path5411" transform="matrix(0.9999 -1.020248e-02 1.020248e-02 0.9999 -1.9829 6.977714e-02)" class="st0" cx="5.8" cy="194.4" rx="2.5" ry="2.5"/>
+		<circle id="circle5413" class="st0" cx="3.7" cy="189.2" r="1.7"/>
+		<circle id="circle5415" class="st1" cx="4.6" cy="183.7" r="1.5"/>
+		<circle id="circle5417" class="st0" cx="7.9" cy="179" r="1.3"/>
+		<circle id="circle5419" class="st0" cx="13.2" cy="176.9" r="1.1"/>
+		<circle id="circle5421" class="st0" cx="18.7" cy="177.7" r="0.8"/>
+		<circle id="circle5423" class="st0" cx="23.2" cy="181.1" r="0.7"/>
+		<circle id="circle5425" class="st0" cx="25.4" cy="186.5" r="1.5"/>
+		<circle id="circle5427" class="st0" cx="24.7" cy="192.1" r="1.3"/>
+		<circle id="circle5429" class="st0" cx="21.2" cy="196.5" r="1.1"/>
+		<circle id="circle5431" class="st0" cx="15.9" cy="198.5" r="0.7"/>
+		<circle id="circle5433" class="st0" cx="10.5" cy="197.7" r="0.5"/>
+		<ellipse id="circle5435" class="st0" cx="4.6" cy="183.7" rx="2.5" ry="2.5"/>
+		<path id="rect5437" class="st0" d="M10.3,185.7l2-1.2v6.7l-2,1.2V185.7L10.3,185.7z"/>
+		<path id="path5444" class="st0" d="M18.4,185.7l2-1.2v6.7l-2,1.2V185.7L18.4,185.7z"/>
+		<path id="path5446" class="st0" d="M14.3,185.7l2-1.2v6.7l-2,1.2V185.7L14.3,185.7z"/>
+		<path id="rect5448" class="st0" d="M8.3,184.5l2-1.2l2,1.2l-2,1.2L8.3,184.5L8.3,184.5z"/>
+		<path id="path5451" class="st0" d="M12.3,184.5l2-1.2l2,1.2l-2,1.2L12.3,184.5z"/>
+		<path id="path5453" class="st0" d="M16.4,184.5l2-1.2l2,1.2l-2,1.2L16.4,184.5L16.4,184.5z"/>
 	</g>
 </g>
 </svg>

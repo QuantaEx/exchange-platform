@@ -3,27 +3,18 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="40px" height="40px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#18931B;}
-	.st1{fill:url(#SVGID_1_);}
-	.st2{fill:#FFFFFF;}
-	.st3{opacity:5.000000e-02;fill:#0B8311;enable-background:new    ;}
-	.st4{opacity:5.000000e-02;fill:#146714;enable-background:new    ;}
+	.st0{fill:#A1A3AA;}
+	.st1{opacity:5.000000e-02;fill:#A1A3AA;enable-background:new    ;}
 </style>
-<path class="st0" d="M25,40H15C6.8,40,0,33.3,0,25V15C0,6.8,6.8,0,15,0h10c8.3,0,15,6.8,15,15v10C40,33.3,33.3,40,25,40z"/>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="9.0907" y1="40.8954" x2="30.9093" y2="3.1046" gradientTransform="matrix(1 0 0 -1 0 42)">
-	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
-	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
-</linearGradient>
-<path class="st1" d="M25,40H15C6.8,40,0,33.3,0,25V15C0,6.8,6.8,0,15,0h10c8.3,0,15,6.8,15,15v10C40,33.3,33.3,40,25,40z"/>
 <g id="layer1">
 	<g id="g1627" transform="translate(56.415936,69.875162)">
-		<path id="path1599" class="st2" d="M-46-48.5c3.4,1.8,7,3.8,9.8,5.1l9.6-5.1c-3.5,5.1-6.4,9.5-9.6,14.2
-			C-39.6-39-43.1-44.3-46-48.5L-46-48.5z M-45.6-49.9l9.4-5l9.3,5l-9.3,5L-45.6-49.9z M-36.4-56.5l-9.6,5.1l9.6-14.1l9.6,14.1
-			L-36.4-56.5z"/>
-		<path id="path1593" class="st3" d="M-36.4-43.3l9.6-5.1c-3.5,5.1-9.6,14.3-9.6,14.3V-43.3z M-36.4-54.9l9.3,5l-9.3,5V-54.9z
-			 M-36.4-56.5v-9l9.6,14.1L-36.4-56.5z"/>
-		<path id="path1603" class="st3" d="M-45.6-49.9l9.4,0.8l9.3-0.8l-9.3,5L-45.6-49.9z"/>
-		<path id="path1606" class="st4" d="M-36.4-49.2l9.3-0.8l-9.3,5V-49.2L-36.4-49.2z"/>
+		<path id="path1599" class="st0" d="M-48.8-48.2c4.3,2.3,8.9,4.8,12.5,6.5l12.2-6.5c-4.5,6.5-8.2,12.1-12.2,18.1
+			C-40.6-36.1-45.1-42.9-48.8-48.2L-48.8-48.2z M-48.3-50l12-6.4l11.8,6.4l-11.8,6.4L-48.3-50z M-36.5-58.4l-12.2,6.5l12.2-18
+			l12.2,18L-36.5-58.4z"/>
+		<path id="path1593" class="st1" d="M-36.5-41.6l12.2-6.5c-4.5,6.5-12.2,18.2-12.2,18.2V-41.6z M-36.5-56.4l11.8,6.4l-11.8,6.4
+			V-56.4z M-36.5-58.4v-11.5l12.2,18L-36.5-58.4z"/>
+		<path id="path1603" class="st1" d="M-48.3-50l12,1l11.8-1l-11.8,6.4L-48.3-50z"/>
+		<path id="path1606" class="st1" d="M-36.5-49.1l11.8-1l-11.8,6.4V-49.1L-36.5-49.1z"/>
 	</g>
 </g>
 </svg>

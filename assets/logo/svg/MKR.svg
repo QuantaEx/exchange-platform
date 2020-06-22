@@ -3,20 +3,11 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="40px" height="40px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#18AD91;}
-	.st1{fill:url(#SVGID_1_);}
-	.st2{fill:#FFFFFF;}
+	.st0{fill:#A1A3AA;}
 </style>
-<path class="st0" d="M25,40H15C6.8,40,0,33.3,0,25V15C0,6.8,6.8,0,15,0h10c8.3,0,15,6.8,15,15v10C40,33.3,33.3,40,25,40z"/>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="9.0907" y1="267.1046" x2="30.9093" y2="304.8954" gradientTransform="matrix(1 0 0 1 0 -266)">
-	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
-	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
-</linearGradient>
-<path class="st1" d="M25,40H15C6.8,40,0,33.3,0,25V15C0,6.8,6.8,0,15,0h10c8.3,0,15,6.8,15,15v10C40,33.3,33.3,40,25,40z"/>
 <g id="layer102">
-	<path class="st2" d="M6.3,20v-9.6l0.1,0.1c0.1,0,3.1,2.3,6.6,4.9l6.5,4.7v4.8v4.7h-1.3H17v-4.1v-4.1l-4.1-3l-4.1-3.1v7.3v7.1H7.5
-		H6.3V20z"/>
-	<path class="st2" d="M20.4,24.9v-4.8l6.1-4.4c3.4-2.4,6.4-4.6,6.6-4.9l0.6-0.5V20v9.6h-1.3h-1.3v-7.1v-7.1l-4.1,3l-4.3,2.9v4.1v4.1
-		h-1.3h-1.3V24.9z"/>
+	<path class="st0" d="M0,20V6l0.1,0.1c0.1,0,4.5,3.4,9.6,7.2l9.5,6.9v7V34h-1.9h-1.8v-6v-6l-6-4.4l-6-4.5v10.7v10.4H1.8H0V20z"/>
+	<path class="st0" d="M20.6,27.2v-7l8.9-6.4c5-3.5,9.3-6.7,9.6-7.2L40,5.8V20v14h-1.9h-1.9V23.6V13.3l-6,4.4l-6.3,4.2v6v6H22h-1.9
+		v-6.7H20.6z"/>
 </g>
 </svg>

@@ -3,17 +3,8 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="40px" height="40px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#04183D;}
-	.st1{fill:url(#SVGID_1_);}
-	.st2{fill:#FFFFFF;}
+	.st0{fill:#A1A3AA;}
 </style>
-<path class="st0" d="M25,40H15C6.8,40,0,33.3,0,25V15C0,6.8,6.8,0,15,0h10c8.3,0,15,6.8,15,15v10C40,33.3,33.3,40,25,40z"/>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="9.0907" y1="40.8954" x2="30.9093" y2="3.1046" gradientTransform="matrix(1 0 0 -1 0 42)">
-	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
-	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
-</linearGradient>
-<path class="st1" d="M25,40H15C6.8,40,0,33.3,0,25V15C0,6.8,6.8,0,15,0h10c8.3,0,15,6.8,15,15v10C40,33.3,33.3,40,25,40z"/>
-<title>lisk</title>
-<path class="st2" d="M20,5l-2.8,4.5L27,26.1L19.1,35c0,0,6.3,0,6.1,0c-0.1,0,7.4-8.4,7.4-8.4L20,5z M16.5,11.1L7.3,26.8l7.3,8.3h2.8
-	l4-4.6h-4.4L13,26l6.3-10.6L16.5,11.1z"/>
+<path class="st0" d="M20.1,0l-3.7,6l13,22.1L18.9,39.9c0,0,8.4,0,8.1,0c-0.1,0,9.8-11.2,9.8-11.2L20.1,0z M15.4,8.1L3.2,29l9.7,11
+	h3.7l5.3-6.1h-5.8l-5.3-6l8.4-14.1L15.4,8.1z"/>
 </svg>
