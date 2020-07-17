@@ -30,7 +30,7 @@ Last 60 days progress of QuantaEx
 
 ![QuantaEx Landing View ](https://github.com/QuantaPay/QuantaEx/blob/master/assets/exchange/home.png)
 
-## Developed by our awesome [NEXBIT.IO](https://npro.nexbit.io) team with the best UI/UX [nPRO](https://npro.nexbit.io/docs/npro2.3.pdf). . 
+## Developed by our awesome [NEXBIT.IO](https://npro.nexbit.io) team with the best UI/UX [nPRO](https://npro.nexbit.io/docs/npro2.3.pdf).
 
 
 ```
