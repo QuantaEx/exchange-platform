@@ -27,3 +27,16 @@ Last 60 days progress of QuantaEx
 18. Upgrade to latest ReactJS based TypeScript code
 19. Remove all bugs
 20. Coin/Asset Info page
+
+[QuantaEx Landing View ](https://github.com/QuantaPay/QuantaEx/blob/master/assets/exchange/home.png)
+
+## Developed by our awesome [NEXBIT.IO](https://npro.nexbit.io) team with UI/UX nPRO. 
+
+
+```
+
+                                           
+                                           (C) 2018-2020 NEXBIT.IO Ltd.
+                                      
+                                      
+```
