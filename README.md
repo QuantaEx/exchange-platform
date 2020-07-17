@@ -1,8 +1,8 @@
   <a href="https://www.quantaex.com">
     <img src="https://raw.githubusercontent.com/QuantaPay/QuantaEx/master/assets/exchange/logo.png" width="420px" alt="QuantaEx logo" />
   </a><br />
-  <h3> QuantaEx | High Scale Digital Asset Exchange</h3>
-  https://www.quantaex.com
+  <h1> QuantaEx | High Scale Digital Asset Exchange</h1>
+ <h3> https://www.quantaex.com </h3>
 
 
 Last 60 days progress of QuantaEx
@@ -28,7 +28,7 @@ Last 60 days progress of QuantaEx
 19. Remove all bugs
 20. Coin/Asset Info page
 
-[QuantaEx Landing View ](https://github.com/QuantaPay/QuantaEx/blob/master/assets/exchange/home.png)
+![QuantaEx Landing View ](https://github.com/QuantaPay/QuantaEx/blob/master/assets/exchange/home.png)
 
 ## Developed by our awesome [NEXBIT.IO](https://npro.nexbit.io) team with UI/UX nPRO. 
 
